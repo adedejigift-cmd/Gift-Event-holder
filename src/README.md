@@ -11,11 +11,11 @@ http://localhost:2500
 
 ### Register
 
-POST /api/auth/register
+POST /api/user/register
 
 ### Login
 
-POST /api/auth/login
+POST /api/user/login
 
 ### Verify Email
 
